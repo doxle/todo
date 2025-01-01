@@ -1,0 +1,10 @@
+html,
+body,
+pre {
+    margin: 0;
+    padding: 0;
+    background: rgb(245, 245, 245);
+}
+input::placeholder {
+    font-style: italic;
+}
