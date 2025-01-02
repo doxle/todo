@@ -1,6 +1,0 @@
-span {
-    class: "font-lexend text-[24px] md:text-[16px] ml-2 flex-1 peer-checked:line-through",
-    style: "white-space: normal; overflow: visible; display: block;",
-    class: if item.checked {"line-through text-gray-500"},
-    "{item.contents}"
-}
